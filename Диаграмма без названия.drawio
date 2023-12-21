@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T15:02:49.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9m5oDVSCVLdixx1FLe6n" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T11:00:37.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-xPiI_wBG0G1ZdhH56sa" version="22.1.11" type="github">
   <diagram name="Страница — 1" id="boksjwtE60Wu9PSS7kzV">
     <mxGraphModel dx="1510" dy="355" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="1OqXnXpz8r0vYPGbQrty-56" value="HMI Tractor PTZ&lt;br&gt;16 мс&lt;br&gt;Зависимости:&lt;br&gt;Fundamental Dependencies App&lt;br&gt;Tractor PTZ Parameters&lt;br&gt;J1939 Fault Reg Kit HMI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-805" y="285" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1OqXnXpz8r0vYPGbQrty-57" value="M_Unit PTZ&lt;br&gt;10 мс&lt;br&gt;Зависимости:&lt;br&gt;Fundamental Dependencies App&lt;br&gt;Tractor PTZ Parameters&lt;br&gt;J1939 Fault Reg Kit&lt;br&gt;MCU KBB-35(70)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1OqXnXpz8r0vYPGbQrty-57" value="M_Unit PTZ&lt;br&gt;10 мс&lt;br&gt;Зависимости:&lt;br&gt;Fundamental Dependencies App&lt;br&gt;Tractor PTZ Parameters&lt;br&gt;J1939 Fault Reg Kit&lt;br&gt;IO3 Units Ref Kit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-805" y="435" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1OqXnXpz8r0vYPGbQrty-58" value="Виртуальный CAN&lt;br&gt;Узел 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
